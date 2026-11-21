@@ -2,13 +2,12 @@ import React, { useEffect, useState } from 'react'
 
 import { createRoot } from 'react-dom/client'
 
-import sanctumLogo from './assets/sanctum-logo.svg'
 
-import sanctumMark from './assets/sanctum-mark.svg'
+import sanctumLogo from "./sanctum-logo.svg";
+import sanctumMark from "./sanctum-mark.svg";
+import seniorCompanionship from "./senior-companionship.jpg";
+import seniorClinicalCare from "./senior-clinical-care.jpg";
 
-import seniorCompanionship from './assets/senior-companionship.jpg'
-
-import seniorClinicalCare from './assets/senior-clinical-care.jpg'
 
 import {
 
