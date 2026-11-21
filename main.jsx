@@ -19,7 +19,7 @@ HeartHandshake, HeartPulse, Home, Mail, MapPin, Menu, MessageCircle,
  Navigation, Phone, ShieldCheck, Sparkles, Stethoscope, Users, X
 
 } from 'lucide-react'
-import './index.css';
+import './index.css'
 
 const office = [
 
